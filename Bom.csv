@@ -1,8 +1,9 @@
 BOM Name,Quantity,Link,US Price,UK Price
-switches,17,,,,
+switches,17,,,,,
 diode,17,,,,
 XIAO-RP2040,1,,,,
-keycap-white,13,,,
+keycap-white,13,,,,
 Stabilizer,1,https://www.aliexpress.com/item/32890298703.html,14.98,11.09
 2u Keycap,14,https://www.aliexpress.com/item/1005008632794638.html,4.13,3.06
+
 
