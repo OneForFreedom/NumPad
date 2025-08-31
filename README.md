@@ -23,7 +23,7 @@ A full numpad with all 17 keys, basically the opposite of a ten keyless keyboard
 | switches     | 17       |      |          |          |
 | diode        | 17       |      |          |          |
 | XIAO-RP2040  | 1        |      |          |          |
-| keycap-white | 17       |      |          |          |
+| keycap-white | 13       |      |          |          |
 | Stabilizer   | 1        | [AliExpress](https://www.aliexpress.com/item/32890298703.html) |   14.98       |   11.09       |
-
+| 2u Keycap    | 14       |  [AliExpress](https://www.aliexpress.com/item/1005008632794638.html)    |  4.13    |   3.06   |
 
