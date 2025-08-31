@@ -33,15 +33,19 @@ all in all
 
 Total Time taken 5hrs
 Entry Time Taken 5hrs
-
+![](Images/Screenshot%202025-08-29%20113353.png)
+![](Images/Screenshot%202025-08-29%20113408.png)
 Entry 3: The finale.
 
 I finally finished the CAD. im pretty proud of it, i chose a black and which scheme mainly because thats what most 3d printer people in printing liegeon have
 I had to reiterate on the pcb which took a hell lotta time. but thank god i finished it.
 oh btw i forgot to mention, i did the cad like half way before i went to sleep.
 
-uhh images all are in the readme and in /Images.
 
 So I basically got 9-10 hours under my belt. and the only reason why im journalling this is only cuz im getting stabs :heavysob:
 
 I hope you liked it! 
+
+Total Time Taken 9 Hours
+Entry time taken 4 hours
+
